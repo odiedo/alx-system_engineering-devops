@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -na --indicator-style=slash --sort=version
+ls -ma --indicator-style=slash --sort=version
