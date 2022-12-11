@@ -1,0 +1,2 @@
+#!/bin/bash
+ls -na --indicator-style=slash --sort=version
